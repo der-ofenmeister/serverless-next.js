@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/node@^16.0.0":
-  version "16.4.7"
-  resolved "https://registry.npmjs.org/@types/node/-/node-16.4.7.tgz#f7afa78769d4b477f5092d7c3468e2e8653d779c"
-  integrity sha512-aDDY54sst8sx47CWT6QQqIZp45yURq4dic0+HCYfYNcY5Ejlb/CLmFnRLfy3wQuYafOeh3lB/DAKaqRKBtcZmA==
+"@types/node@^18.7.9":
+  version "18.7.9"
+  resolved "https://registry.npmjs.org/@types/node/-/node-18.7.9.tgz#180bfc495c91dc62573967edf047e15dbdce1491"
+  integrity sha512-0N5Y1XAdcl865nDdjbO0m3T6FdmQ4ijE89/urOHLREyTXbpMWbSafx9y7XIsgWGtwUP2iYTinLyyW3FatAxBLQ==
 
 aws-sdk@^2.938.0:
   version "2.957.0"
