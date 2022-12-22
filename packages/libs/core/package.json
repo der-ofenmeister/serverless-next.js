@@ -34,7 +34,7 @@
   "dependencies": {
     "@hapi/accept": "^5.0.1",
     "cookie": "^0.4.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "path-to-regexp": "^6.1.0",
     "regex-parser": "^2.2.10"
   },
